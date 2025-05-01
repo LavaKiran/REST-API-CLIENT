@@ -1,6 +1,6 @@
 # REST-API-CLIENT
 
-COMPANY : CODETECH IT SOLUTIONS NAME : ALEKHYA DAMA INTERN ID : CT04WVN DOMAIN NAME : JAVA PROGRAMMING DURATION : 4 WEEKS MENTOR : NEELA SANTOSH
+COMPANY : CODETECH IT SOLUTIONS NAME : Lava kiran Silla INTERN ID : :CT04DA832 DOMAIN NAME : JAVA PROGRAMMING DURATION : 4 WEEKS MENTOR : NEELA SANTOSH
 
 RESTAPIClient
 🌍 REST API Weather Client
@@ -29,6 +29,7 @@ REST API (OpenWeatherMap API)
 JSON Parsing (org.json library)
 📌 API Example
  Enter city name: New York Weather in New York: ***Output : 
+ ![Image](https://github.com/user-attachments/assets/b99800c0-1e14-44e6-8b42-54f43bd63389)
 
  
  Clear sky Temperature: 25.3°C Humidity: 55.0%
