@@ -1,6 +1,6 @@
 # REST-API-CLIENT
 
-COMPANY : CODETECH IT SOLUTIONS NAME : Lava kiran Silla INTERN ID : :CT04DA832 DOMAIN NAME : JAVA PROGRAMMING DURATION : 4 WEEKS MENTOR : NEELA SANTOSH
+COMPANY : CODETECH IT SOLUTIONS NAME : Lava kiran Silla INTERN ID :CT04DA832 DOMAIN NAME : JAVA PROGRAMMING DURATION : 4 WEEKS MENTOR : NEELA SANTOSH
 
 RESTAPIClient
 🌍 REST API Weather Client
@@ -8,13 +8,18 @@ This is a Java application that fetches live weather data using the OpenWeatherM
 
 📌 Features
 ✅ Fetches weather data for any city 🌆
+
 ✅ Parses JSON responses and extracts important details 📊
+
 ✅ Displays temperature, humidity, and weather description ☁️
+
 ✅ Uses REST API and Java HTTP requests 🚀
 
 🛠️ How to Run the Code
 1️⃣ Prerequisites
+
 ✔️ Install Java JDK 17+
+
 ✔️ Download the JSON library (json-20210307.jar) and place it in the project folder.
 
 2️⃣ Steps to Run
